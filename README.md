@@ -1,2 +1,2 @@
 # rag_agent
-RAG agent based on LangGraph and Mistral
+RAG agent built with LangGraph
